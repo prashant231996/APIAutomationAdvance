@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="8576" started-at="2024-09-29T19:51:13 IST" finished-at="2024-09-29T19:51:21 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="8576" started-at="2024-09-29T19:51:13 IST" finished-at="2024-09-29T19:51:21 IST">
+      <class name="EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation">
+        <test-method status="PASS" signature="getSessionToken()[pri:0, instance:EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation@479d31f3]" name="getSessionToken" duration-ms="5937" started-at="2024-09-29T19:51:13 IST" description="Generate session tokens" finished-at="2024-09-29T19:51:19 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getSessionToken -->
+        <test-method status="PASS" signature="addNewProduct()[pri:1, instance:EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation@479d31f3]" name="addNewProduct" duration-ms="865" started-at="2024-09-29T19:51:19 IST" description="Adding the new product" finished-at="2024-09-29T19:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewProduct -->
+        <test-method status="PASS" signature="createOrder()[pri:2, instance:EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation@479d31f3]" name="createOrder" duration-ms="522" started-at="2024-09-29T19:51:20 IST" description="Create Order" finished-at="2024-09-29T19:51:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createOrder -->
+        <test-method status="PASS" signature="getOrderDetails()[pri:3, instance:EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation@479d31f3]" name="getOrderDetails" duration-ms="560" started-at="2024-09-29T19:51:20 IST" description="Get Order Details for respective user.." finished-at="2024-09-29T19:51:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getOrderDetails -->
+        <test-method status="PASS" signature="deleteOrder()[pri:4, instance:EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation@479d31f3]" name="deleteOrder" duration-ms="6" started-at="2024-09-29T19:51:21 IST" description="Delete order" finished-at="2024-09-29T19:51:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteOrder -->
+        <test-method status="PASS" signature="deleteProduct()[pri:5, instance:EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation@479d31f3]" name="deleteProduct" duration-ms="416" started-at="2024-09-29T19:51:21 IST" description="Delete Product" finished-at="2024-09-29T19:51:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteProduct -->
+      </class> <!-- EndToEndWorkFlowAutomation.ShoppingEndToEndAutomation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
